@@ -68,8 +68,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "harsh",
+      "email": "harsha@gmail.com"
         }
       }
    }
@@ -90,8 +90,8 @@ The Task Management System follows a client-server architecture, with a backend 
     "taskCreatedAt": "Timestamp",
     "user": {
       "userId": 1,
-      "username": "sandesh",
-      "email": "sandesh@gmail.com"
+      "username": "harsh",
+      "email": "harsha@gmail.com"
     }
   }
 }
